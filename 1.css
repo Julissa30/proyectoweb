@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  padding: 0;
+background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),
+url(pizn.jpg);
+  margin-top: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+
+}
+.registro{
+  position: relative;
+  margin: 10% auto;
+  width: 350px;
+  height: 450px;
+  border-radius: 80px;
+}
+h1
+{
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #fff;
+}
+.registro input{
+
+display: block;
+box-sizing: 20px;
+margin-bottom: 15px;
+padding: 4px;
+width: 220px;
+height: 28px;
+border: 1px solid #fff;
+border-radius: 10px;
+outline: none;
+font-size: 15px;
+transition: 0.2s;
+color:#fff;
+background: transparent;
+}
+
+.boton{
+  margin-bottom: 10px;
+  width: 120px;
+  height: 32px;
+  background: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+}
